@@ -1,4 +1,4 @@
-# Soil salinity assessment and cross-regional validation based on multiple feature optimization methods and SHAP
+# Soil Salinity Assessment and Cross-Regional Validation Based on Multiple Feature Optimization Methods and SHAP
 # SHI Shuaishuai
 
 Site 2 points data used in this work are available at https://doi.org/10.3390/rs15174269.
